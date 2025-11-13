@@ -4,7 +4,7 @@ function App() {
   return (
     <>
       <header></header>
-      <main>
+      <main style={{ marginInline: "auto", width: "50vw" }}>
         <h1>Disney Movies</h1>
         <DisneyMovies />
       </main>
